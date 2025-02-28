@@ -1,1 +1,1 @@
-# ibkr_pyparser
+This is a suite of tools which helps preparing yearly tax reports to Bulgarian national tax agency out of Interactive Brokers activity reports. The suite is in beta stage and once ready I will prepare a detailed guide.
